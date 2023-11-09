@@ -1,1 +1,4 @@
 # Digits_Recognizer
+
+Handwritten digits recognition is a challenging task in the field of computer vision. It involves recognizing digits that are written by hand, which can vary greatly in style and appearance. One approach to handwritten digits recognition is to use a convolutional neural network (CNN). CNNs are a type of deep learning model that is well-suited for tasks such as image recognition.
+In this tutorial, we will build a handwritten digits recognition model using TensorFlow Keras and the PyGame application interface. We will use the MNIST dataset, which is a large dataset of handwritten digits. We will then train the model using the Adam optimizer and the categorical crossentropy loss function. Finally, we will use the model to recognize handwritten digits in real-time using the PyGame application interface.
